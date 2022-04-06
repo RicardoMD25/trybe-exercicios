@@ -29,6 +29,19 @@ if (a > b && a > c) {
     console.log("c é maior")
 }
 
+// quarto exercicio
+
+const n = -6;
+
+if (n > 0) {
+    console.log("positivo");
+} else if (n < 0) {
+    console.log("negativo");
+} else {
+    console.log(0);
+}
+
+
 
 
 
